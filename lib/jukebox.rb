@@ -24,3 +24,4 @@ def list
     p "#{index+1}. #{song}"
   end
 end
+
