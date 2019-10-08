@@ -21,6 +21,6 @@ end
 
 def list 
   songs.each_with_index do |song, index|
-    p "#{index+1} "
+    p "#{index+1}. #{song}"
   end
 end
