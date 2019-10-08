@@ -20,5 +20,5 @@ def help
 end
 
 def list 
-  puts songs.each_with_in
+  songs.each_with_index do ||
 end
